@@ -23,8 +23,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
+- Create a resource group in Azure
+- Create a virtual machine in Azure & login to the VM with remote desktop
+- Install & enable IIS in Windows
+- Download & install PHP Manager for IIS
   
 
 <h2>Installation Steps</h2>
