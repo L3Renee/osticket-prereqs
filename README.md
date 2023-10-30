@@ -50,8 +50,12 @@ Remotely signed into Azure virtual machine.
 <img src="https://github.com/L3Renee/osticket-prereqs/assets/147538608/de6532d4-724d-4e2a-9817-5efebef9198f"/>
 
 <p>
+Install and enable IIS
+  
+<img src="https://github.com/L3Renee/osticket-prereqs/assets/147538608/416cce27-f4ca-48da-bdc8-b3aa8a544aeb"/>
 
 </p>
+Install PHP Manager
 <p>
 
 </p>
