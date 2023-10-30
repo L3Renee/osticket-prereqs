@@ -43,12 +43,12 @@ Virtual machine was created in Azure. IP Address: 172.172.233.204 was copied and
 <img src="https://github.com/L3Renee/osticket-prereqs/assets/147538608/b4977736-80be-48f7-910b-b5686e064fea"/>
 
 </p>
-<p>
 Remotely signed into Azure virtual machine.
 </p>
 <br />
 
-<img src="
+<img src="https://github.com/L3Renee/osticket-prereqs/assets/147538608/de6532d4-724d-4e2a-9817-5efebef9198f"/>
+
 <p>
 
 </p>
